@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'EB Garamond', serif;
+    color: #253c31;
+}
+
+body {
+    background-color: #F4F2DE;
+}
+
+#wrapper {
+    max-width: 700px;
+    padding: 128px 24px;
+    margin: 0 auto;
+}
+
+p {
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 24px 0;
+}
